@@ -1,4 +1,0 @@
-package Day8.interfaces.functionalinterfaces;
-
-
-	
